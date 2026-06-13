@@ -49,7 +49,7 @@ The integrity records are saved as JSON files with the following structure:
 ```json
 {
     "filename": "myfile.txt",
-    "sha256": "abc123...",
+    "sha256": "abc123..."
 }
 ```
 
