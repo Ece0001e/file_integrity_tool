@@ -50,8 +50,6 @@ The integrity records are saved as JSON files with the following structure:
 {
     "filename": "myfile.txt",
     "sha256": "abc123...",
-    "file_size": 1024,
-    "created_at": "2026-06-13T15:01:41.123456"
 }
 ```
 
